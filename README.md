@@ -1,15 +1,15 @@
 ### Tic Tac Toe Game with Reactjs
 
-* Two players (Lion &#129409 and Unicorn &#129412)
-* Play tic-tac-toe
-* show when a player wins
-* history is stores as game continues
-* return back to a previous move or step in history
+<p>Two players (Lion &#129409 and Unicorn &#129412) </p>
+<p> Play tic-tac-toe </p>
+<p> show when a player wins </p>
+<p> history is stores as game continues </p>
+<p> return back to a previous move or step in history </p>
 
 # This is a REACTJS app 
 
 # Source and Reference
-    `https://reactjs.org/tutorial/tutorial.html`
+    https://reactjs.org/tutorial/tutorial.html
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
