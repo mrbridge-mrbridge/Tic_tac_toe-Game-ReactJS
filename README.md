@@ -1,5 +1,11 @@
 ### Tic Tac Toe Game with Reactjs
 
+* Two players (Lion &#129409 and Unicorn &#129412)
+* Play tic-tac-toe
+* show when a player wins
+* history is stores as game continues
+* return back to a previous move or step in history
+
 # This is a REACTJS app 
 
 # Source and Reference
@@ -10,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+(You may need to install all in requirements file) In the project directory (my-app), you can run: 
 
 ### `npm start`
 
